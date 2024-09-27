@@ -1,0 +1,21 @@
+#colorBlock {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    margin: 20px auto;
+    border: 2px solid #923cae;
+}
+
+button{
+    width: 60px;
+    height: 30px;
+    background-color: #000000;
+    color: white;
+
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
